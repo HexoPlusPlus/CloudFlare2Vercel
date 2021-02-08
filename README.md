@@ -1,5 +1,7 @@
 # CloudFlare2Vercel
 
+# 铁子们不要白嫖啊，给个Star鸭
+
 **本插件适合已部署HexoPlusPlus，但觉得CloudFlare太慢的人，如果你没有在CloudFlare上部署HexoPlusPlus，请先部署后使用**
 
 ## Start
